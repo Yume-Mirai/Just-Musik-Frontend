@@ -2,7 +2,7 @@
 import axios from 'axios'
 
 // http://localhost:8080/api
-const API_BASE_URL = 'https://asfariganteng.up.railway.app/api'
+const API_BASE_URL = 'https://just-musik-backend.onrender.com/api'
 
 const api = axios.create({
   baseURL: API_BASE_URL,
